@@ -1,10 +1,3 @@
-//
-//  ToDosUITestsLaunchTests.swift
-//  ToDosUITests
-//
-//  Created by Jonathan Souza on 06/12/22.
-//
-
 import XCTest
 
 final class ToDosUITestsLaunchTests: XCTestCase {
